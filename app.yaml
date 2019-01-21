@@ -1,4 +1,3 @@
-version: 1
 runtime: php72
 api_version: 1
 handlers:
