@@ -1,3 +1,3 @@
 <?php
-  echo 'Hello, world! php 7';
+  echo 'Hello, buzz! php 7.x';
 ?>
