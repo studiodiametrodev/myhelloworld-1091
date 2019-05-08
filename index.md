@@ -1,6 +1,7 @@
 ## CONTACTS
 
-- [Link](home.html) - [Link](contacts.html) 
+- [Home](index.html) 
+- [Contacts](contacts.html) 
 
 You can use the [editor on GitHub](https://github.com/studiodiametrodev/myhelloworld-1091/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
